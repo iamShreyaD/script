@@ -1,8 +1,10 @@
+
+# -------------------------------------------------------------------------------------------------------------
 # Shreya B Deshpande
 # This project is done through Codecademy
 # The project helps the customer to keep track of the shopping they have done. It adds the price of item along 
 # with the description of the item. At the end, it calculates the total price in which sales tax is included.
-
+# ------------------------------------------------------------------------------------------------------------
 lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white."
 lovely_loveseat_price = 254.00
 
